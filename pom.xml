@@ -115,7 +115,7 @@
                         <licenseHeader>
                             <file>${basedir}/license-header</file>
                         </licenseHeader>
-                        <removeUnusedImports />
+                        <removeUnusedImports/>
                     </java>
                 </configuration>
             </plugin>
@@ -147,7 +147,7 @@
         <dependency>
             <groupId>org.sonarsource.sonarlint.core</groupId>
             <artifactId>sonarlint-client-api</artifactId>
-            <version>4.11.0.18104</version>
+            <version>4.14.1.22545</version>
         </dependency>
         <dependency>
             <groupId>org.sonarsource.sonarlint.core</groupId>
